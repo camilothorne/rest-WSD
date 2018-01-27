@@ -1,0 +1,400 @@
+{
+     "0": [
+          {"sentence": "BabelNet is both a multilingual encyclopedic dictionary and a semantic network."},
+          {"MetaMap": [
+               {
+                    "phrase": "multilingual",
+                    "confidence": "0.66",
+                    "sense": "multilingual"
+               },
+               {
+                    "phrase": "encyclopedia",
+                    "confidence": "0.589",
+                    "sense": "encyclopedias"
+               },
+               {
+                    "phrase": "dictionary",
+                    "confidence": "0.827",
+                    "sense": "dictionary"
+               },
+               {
+                    "phrase": "semantic",
+                    "confidence": "0.861",
+                    "sense": "semantic"
+               },
+               {
+                    "phrase": "network",
+                    "confidence": "0.861",
+                    "sense": "network"
+               }
+          ]},
+          {"WordNet": [
+               {
+                    "phrase": "network",
+                    "confidence": "0.14285715",
+                    "sense": "net"
+               },
+               {
+                    "phrase": "dictionary",
+                    "confidence": "0.14285715",
+                    "sense": "dictionary"
+               }
+          ]},
+          {"BabelFly": [
+               {
+                    "phrase": "multilingual",
+                    "confidence": "0.0",
+                    "sense": "multilingual"
+               },
+               {
+                    "phrase": "encyclopedic",
+                    "confidence": "0.0",
+                    "sense": "encyclopedic"
+               },
+               {
+                    "phrase": "encyclopedic dictionary",
+                    "confidence": "0.4",
+                    "sense": "encyclopedic dictionary"
+               },
+               {
+                    "phrase": "dictionary",
+                    "confidence": "1.0",
+                    "sense": "dictionary"
+               },
+               {
+                    "phrase": "semantic",
+                    "confidence": "0.2",
+                    "sense": "semantic"
+               },
+               {
+                    "phrase": "semantic network",
+                    "confidence": "0.6",
+                    "sense": "semantic network"
+               },
+               {
+                    "phrase": "network",
+                    "confidence": "0.4",
+                    "sense": "computer network"
+               }
+          ]},
+          {"TagMe": [
+               {
+                    "phrase": "multilingual",
+                    "confidence": "0.22050",
+                    "sense": "multilingualism"
+               },
+               {
+                    "phrase": "encyclopedic dictionary",
+                    "confidence": "0.36996",
+                    "sense": "encyclopedic dictionary"
+               },
+               {
+                    "phrase": "semantic network",
+                    "confidence": "0.78639",
+                    "sense": "semantic network"
+               }
+          ]}
+     ],
+     "1": [
+          {"sentence": "Strategies for preclinical evaluation of dendritic cell subsets for promotion of transplant tolerance in the nonhuman primate."},
+          {"MetaMap": [
+               {
+                    "phrase": "strategy",
+                    "confidence": "0.744",
+                    "sense": "strategies"
+               },
+               {
+                    "phrase": "pre clinical",
+                    "confidence": "0.578",
+                    "sense": "pre-clinical"
+               },
+               {
+                    "phrase": "dendritic",
+                    "confidence": "0.578",
+                    "sense": "dendritic"
+               },
+               {
+                    "phrase": "cell evaluation",
+                    "confidence": "0.6",
+                    "sense": "cell evaluation"
+               },
+               {
+                    "phrase": "subset",
+                    "confidence": "0.544",
+                    "sense": "subset"
+               },
+               {
+                    "phrase": "for",
+                    "confidence": "0.593",
+                    "sense": "for"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.76",
+                    "sense": "promotion"
+               },
+               {
+                    "phrase": "transplant tolerance",
+                    "confidence": "0.64",
+                    "sense": "transplant tolerance"
+               },
+               {
+                    "phrase": "nonhuman primate",
+                    "confidence": "1.0",
+                    "sense": "nonhuman primate"
+               }
+          ]},
+          {"WordNet": [
+               {
+                    "phrase": "cell",
+                    "confidence": "0.083333336",
+                    "sense": "cellular telephone"
+               },
+               {
+                    "phrase": "transplant",
+                    "confidence": "0.071428575",
+                    "sense": "graft"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.06666667",
+                    "sense": "promotion"
+               },
+               {
+                    "phrase": "evaluation",
+                    "confidence": "0.09090909",
+                    "sense": "evaluation"
+               },
+               {
+                    "phrase": "primate",
+                    "confidence": "0.09090909",
+                    "sense": "primate"
+               },
+               {
+                    "phrase": "tolerance",
+                    "confidence": "0.083333336",
+                    "sense": "permissiveness"
+               },
+               {
+                    "phrase": "Strategies",
+                    "confidence": "0.071428575",
+                    "sense": "strategy"
+               }
+          ]},
+          {"BabelFly": [
+               {
+                    "phrase": "Strategies",
+                    "confidence": "0.1111111111111111",
+                    "sense": "chess strategy"
+               },
+               {
+                    "phrase": "preclinical",
+                    "confidence": "0.0",
+                    "sense": "preclinical"
+               },
+               {
+                    "phrase": "evaluation",
+                    "confidence": "0.1111111111111111",
+                    "sense": "evaluation -lrb-"
+               },
+               {
+                    "phrase": "dendritic",
+                    "confidence": "0.1111111111111111",
+                    "sense": "dendritic"
+               },
+               {
+                    "phrase": "dendritic cell",
+                    "confidence": "0.3333333333333333",
+                    "sense": "dendritic cell"
+               },
+               {
+                    "phrase": "cell",
+                    "confidence": "0.5555555555555556",
+                    "sense": "cell"
+               },
+               {
+                    "phrase": "subsets",
+                    "confidence": "0.1111111111111111",
+                    "sense": "subset"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.1111111111111111",
+                    "sense": "sale promotion"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.1111111111111111",
+                    "sense": "promotion"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.1111111111111111",
+                    "sense": "promotion -lrb-"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.2222222222222222",
+                    "sense": "promotion"
+               },
+               {
+                    "phrase": "transplant",
+                    "confidence": "0.3333333333333333",
+                    "sense": "transplant"
+               },
+               {
+                    "phrase": "transplant",
+                    "confidence": "0.1111111111111111",
+                    "sense": "transplant"
+               },
+               {
+                    "phrase": "tolerance",
+                    "confidence": "0.1111111111111111",
+                    "sense": "tolerance"
+               },
+               {
+                    "phrase": "nonhuman",
+                    "confidence": "0.0",
+                    "sense": "nonhuman"
+               },
+               {
+                    "phrase": "primate",
+                    "confidence": "0.3333333333333333",
+                    "sense": "primate"
+               }
+          ]},
+          {"TagMe": [
+               {
+                    "phrase": "strategies",
+                    "confidence": "0.03112",
+                    "sense": "strategy"
+               },
+               {
+                    "phrase": "preclinical",
+                    "confidence": "0.10889",
+                    "sense": "pre-clinical development"
+               },
+               {
+                    "phrase": "evaluation of",
+                    "confidence": "0.50000",
+                    "sense": "basel problem"
+               },
+               {
+                    "phrase": "dendritic cell",
+                    "confidence": "0.59118",
+                    "sense": "dendritic cell"
+               },
+               {
+                    "phrase": "subsets",
+                    "confidence": "0.03632",
+                    "sense": "subset"
+               },
+               {
+                    "phrase": "promotion",
+                    "confidence": "0.06283",
+                    "sense": "doctorate"
+               },
+               {
+                    "phrase": "transplant",
+                    "confidence": "0.16096",
+                    "sense": "organ transplantation"
+               },
+               {
+                    "phrase": "tolerance",
+                    "confidence": "0.13896",
+                    "sense": "drug tolerance"
+               },
+               {
+                    "phrase": "primate",
+                    "confidence": "0.33808",
+                    "sense": "primate"
+               }
+          ]}
+     ],
+     "2": [
+          {"sentence": "John Dee experienced a malfunction of his car."},
+          {"MetaMap": [
+               {
+                    "phrase": "experience",
+                    "confidence": "0.966",
+                    "sense": "experience"
+               },
+               {
+                    "phrase": "malfunction",
+                    "confidence": "0.76",
+                    "sense": "malfunction"
+               },
+               {
+                    "phrase": "he",
+                    "confidence": "0.593",
+                    "sense": "his"
+               },
+               {
+                    "phrase": "car",
+                    "confidence": "0.593",
+                    "sense": "car"
+               }
+          ]},
+          {"WordNet": [
+               {
+                    "phrase": "malfunction",
+                    "confidence": "0.25",
+                    "sense": "malfunction"
+               },
+               {
+                    "phrase": "car",
+                    "confidence": "0.125",
+                    "sense": "car"
+               }
+          ]},
+          {"BabelFly": [
+               {
+                    "phrase": "John",
+                    "confidence": "0.5",
+                    "sense": "public toilet"
+               },
+               {
+                    "phrase": "John",
+                    "confidence": "0.5",
+                    "sense": "prostitution"
+               },
+               {
+                    "phrase": "John",
+                    "confidence": "0.5",
+                    "sense": "toilet"
+               },
+               {
+                    "phrase": "experienced",
+                    "confidence": "0.0",
+                    "sense": "know"
+               },
+               {
+                    "phrase": "malfunction",
+                    "confidence": "0.0",
+                    "sense": "malfunction"
+               },
+               {
+                    "phrase": "car",
+                    "confidence": "0.5",
+                    "sense": "car"
+               }
+          ]},
+          {"TagMe": [
+               {
+                    "phrase": "john dee",
+                    "confidence": "0.50000",
+                    "sense": "john dee"
+               },
+               {
+                    "phrase": "malfunction",
+                    "confidence": "0.00438",
+                    "sense": "firearm malfunction"
+               },
+               {
+                    "phrase": "car",
+                    "confidence": "0.00702",
+                    "sense": "automobile"
+               }
+          ]}
+     ]
+}

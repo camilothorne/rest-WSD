@@ -1,0 +1,8 @@
+\begin{tabular}{ccccc}
+(avg.) & MetaMap & BabelFly & TagMe & WordNet\\ 
+Acc & u'0.34' & u'0.27' & u'0.20' & u'0.27'\\ 
+Pre & u'0.84' & u'0.33' & u'0.30' & u'0.29'\\ 
+Rec & u'0.39' & u'0.20' & u'0.31' & u'0.09'\\ 
+F-1 & u'0.53' & u'0.25' & u'0.30' & u'0.13'\\ 
+
+\end{tabular}

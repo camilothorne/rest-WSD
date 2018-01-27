@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Annotation SYSTEM "annotations.dtd">
+<Annotation>
+  <MedlineCitation pmid="12368048">
+    <Sentence section="title" number="1" text="Strategies for preclinical evaluation of dendritic cell subsets for promotion of transplant tolerance in the nonhuman primate.">
+      <Predications>
+        <Predication negated="false" inferred="false">
+          <Predicate type="PROCESS_OF" indicatorType="PREP" charOffset="101" text="in" />
+          <Subject charOffset="81" text="transplant tolerance">
+            <CUI>C0887936</CUI>
+            <PreferredName>Transplantation Tolerance</PreferredName>
+            <SemanticTypes>
+              <SemanticType>Organism Function</SemanticType>
+            </SemanticTypes>
+            <RelationSemanticType>Organism Function</RelationSemanticType>
+          </Subject>
+          <Object charOffset="109" text="nonhuman primate">
+            <CUI>C0237798</CUI>
+            <PreferredName>Nonhuman Primates</PreferredName>
+            <SemanticTypes>
+              <SemanticType>Mammal</SemanticType>
+            </SemanticTypes>
+            <RelationSemanticType>Mammal</RelationSemanticType>
+          </Object>
+        </Predication>
+      </Predications>
+    </Sentence>
+  </MedlineCitation>
+  <MedlineCitation pmid="12641497">
+    <Sentence section="abstract" number="1" text="AIM: To perform a systematic review of the efficacy of rabeprazole-based therapies in Helicobacter pylori eradication, and to conduct a meta-analysis comparing the efficacy of rabeprazole and other proton pump inhibitors when co-prescribed with antibiotics.">
+      <Predications>
+        <Predication negated="false" inferred="false">
+          <Predicate type="COMPARED_WITH" indicatorType="VERB" charOffset="150" text="comparing" />
+          <Subject charOffset="198" text="proton pump inhibitors">
+            <CUI>C0358591</CUI>
+            <PreferredName>Proton Pump Inhibitors</PreferredName>
+            <SemanticTypes>
+              <SemanticType>Pharmacologic Substance</SemanticType>
+            </SemanticTypes>
+            <RelationSemanticType>Pharmacologic Substance</RelationSemanticType>
+          </Subject>
+          <Object charOffset="176" text="rabeprazole">
+            <CUI>C0378482</CUI>
+            <PreferredName>rabeprazole</PreferredName>
+            <SemanticTypes>
+              <SemanticType>Organic Chemical</SemanticType>
+              <SemanticType>Pharmacologic Substance</SemanticType>
+            </SemanticTypes>
+            <RelationSemanticType>Pharmacologic Substance</RelationSemanticType>
+          </Object>
+        </Predication>
+        <Predication negated="false" inferred="false">
+          <Predicate type="USES" indicatorType="MOD_HEAD" charOffset="" text="" />
+          <Subject charOffset="73" text="therapies">
+            <CUI>C0087111</CUI>
+            <PreferredName>Therapeutic procedure</PreferredName>
+            <SemanticTypes>
+              <SemanticType>Therapeutic or Preventive Procedure</SemanticType>
+            </SemanticTypes>
+            <RelationSemanticType>Therapeutic or Preventive Procedure</RelationSemanticType>
+          </Subject>
+          <Object charOffset="55" text="rabeprazole">
+            <CUI>C0378482</CUI>
+            <PreferredName>rabeprazole</PreferredName>
+            <SemanticTypes>
+              <SemanticType>Organic Chemical</SemanticType>
+              <SemanticType>Pharmacologic Substance</SemanticType>
+            </SemanticTypes>
+            <RelationSemanticType>Pharmacologic Substance</RelationSemanticType>
+          </Object>
+        </Predication>
+      </Predications>
+    </Sentence>
+  </MedlineCitation>
+</Annotation>

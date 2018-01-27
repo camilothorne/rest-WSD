@@ -1,0 +1,5 @@
+(avg.),MetaMap,BabelFly,TagMe,WordNet
+Acc,u0.34,u0.27,u0.20,u0.27
+Pre,u0.84,u0.33,u0.30,u0.29
+Rec,u0.39,u0.20,u0.31,u0.09
+F-1,u0.53,u0.25,u0.30,u0.13

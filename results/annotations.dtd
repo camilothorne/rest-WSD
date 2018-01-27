@@ -1,0 +1,62 @@
+<!ELEMENT Annotation (MedlineCitation+)>
+<!ELEMENT MedlineCitation (Sentence+)>
+<!ATTLIST MedlineCitation pmid CDATA #REQUIRED>
+
+<!ELEMENT Sentence (Predications*)>
+<!ATTLIST Sentence 
+	  section (abstract|title)  #REQUIRED
+          number CDATA #REQUIRED
+          text CDATA #REQUIRED
+>
+
+<!ELEMENT Predications (Predication+)>
+<!ELEMENT Predication (Predicate,Subject,Object)>
+<!ELEMENT Predicate EMPTY>
+<!ELEMENT Subject
+	  (CUI?,PreferredName?,SemanticTypes,RelationSemanticType,
+	  EntrezGene?)>
+<!ELEMENT Object
+	  (CUI?,PreferredName?,SemanticTypes,RelationSemanticType,
+	  EntrezGene?)>
+
+<!ATTLIST Predication 
+	  negated (true | false) "false"
+	  inferred (true | false) "false"
+>
+<!ATTLIST Predicate 
+	  type ( ADMINISTERED_TO | AFFECTS | ASSOCIATED_WITH |
+	          AUGMENTS | CAUSES | COEXISTS_WITH | CONVERTS_TO |
+	          COMPLICATES | DIAGNOSES | DISRUPTS | INHIBITS |
+	          INTERACTS_WITH | ISA | LOCATION_OF | MANIFESTATION_OF | 
+	          METHOD_OF | OCCURS_IN | PART_OF | PRECEDES|
+	          PREDISPOSES | PREVENTS | PROCESS_OF | PRODUCES | 
+	          STIMULATES | TREATS | USES | 
+	          COMPARED_WITH | HIGHER_THAN | LOWER_THAN | SAME_AS
+	  ) #REQUIRED
+	  indicatorType ( VERB | NOM |  ADJ | MOD_HEAD | PREP | 
+	                          AUX | PART | SPEC | INFER | COMPLEX
+	  ) #REQUIRED
+	  charOffset CDATA ""
+	  text CDATA ""
+>
+<!ATTLIST Subject 
+	  charOffset CDATA  ""
+	  text CDATA ""
+>
+<!ATTLIST Object 
+	  charOffset CDATA  ""
+	  text CDATA ""
+>
+
+<!ELEMENT CUI (#PCDATA)>
+<!ELEMENT PreferredName (#PCDATA)>
+<!ELEMENT SemanticTypes (SemanticType+)>
+<!ELEMENT SemanticType (#PCDATA)>
+<!ELEMENT RelationSemanticType (#PCDATA)>
+<!ELEMENT EntrezGene (EntrezGeneTerm+)>
+<!ELEMENT EntrezGeneTerm EMPTY>
+<!ATTLIST EntrezGeneTerm
+	  id CDATA #REQUIRED
+	  name CDATA #REQUIRED
+>
+
